@@ -2,7 +2,9 @@
 # 💫 About Me:
 🎓 Student at University of Waterloo Bachelor's of Mathematics <br>
 🗺️ Located in Waterloo, Ontario <br> 
-🎯 Aspiring Software Engineer 
+🎯 Aspiring Software Engineer <br>
+🤼 I love to wreslte and lift weights
+
 
 ## 🌐 Socials:
 
